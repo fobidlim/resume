@@ -73,13 +73,13 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 **블라섬**
 - (주)파트너
 - 기간: 2016년 5월 - 2016년 11월
-- 사용기술: Java, MVP, RxJava1.x, Retrofit, Realm, MQTT, FCM
-- 소개
+- 사용기술: Java, MVP, RxJava1.x, Retrofit, Realm, MQTT, FCM, ExoPlayer
+- 소개: 신세계I&C에서 진행한 신세계 그룹웨어입니다. 업무용 메신저, SNS 기반의 부서, 팀 등 그룹 중심의 업무 공유가 주요 기능입니다. 사진, 동영상, 파일을 공유할 수 있습니다.
 
 **그랩**
 - (주)파트너
 - 기간: 2015년 1월 - 2017년 9월
-- 사용기술: Java, MVVM, RxJava1.x, Retrofit, Realm, MQTT, FCM, Jenkins
+- 사용기술: Java, MVVM, RxJava1.x, Retrofit, Realm, MQTT, FCM, Jenkins, ExoPlayer
 - 소개
 
 **쇼카운트**
