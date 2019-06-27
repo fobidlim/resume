@@ -2,7 +2,7 @@
 
 ### 임성태
 
-https://jameslim.kr
+https://www.jameslim.kr
 
 https://github.com/fobidlim
 
