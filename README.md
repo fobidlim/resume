@@ -1,4 +1,4 @@
-# Resume (WIP)
+# Resume
 
 ### 임성태
 
