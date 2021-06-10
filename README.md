@@ -209,7 +209,7 @@ FCM, MQTT 푸시 사용
 - (주)파트너
 - 기간: 2015년 1월 - 2017년 9월
 - 사용기술: Kotlin, MVVM, RxJava2.x, Retrofit, Realm, MQTT, FCM, Jenkins, ExoPlayer
-- 소개
+- 소개:
 [Google Play](https://play.google.com/store/apps/details?id=so.partner.app.grap)
 ```
 RxJava(1.x) 사용, MVP 패턴
@@ -227,7 +227,7 @@ Jenkins 사용, CI 구축, 테스트 및 배포 자동화
 - 쇼플레이
 - 기간: 2014년 6월 - 2014년 11월
 - 사용기술: PHP, MsSql
-- 소개
+- 소개:
 ```
 쇼팅 앱과 연동되는 모바일 머니를 가상 계좌로 입금 및 실제 계좌로 송금
 ```
@@ -236,7 +236,7 @@ Jenkins 사용, CI 구축, 테스트 및 배포 자동화
 - 쇼플레이
 - 기간: 2014년 6월 - 2014년 11월
 - 사용기술: Java, MySql, GCM
-- 소개
+- 소개:
 ```
 Java+MySQL 백엔드 구현
 안드로이드 애플리케이션
