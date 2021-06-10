@@ -2,7 +2,7 @@
 
 ### 임성태
 
-https://www.jameslim.kr
+https://www.fobidlim.com
 
 https://github.com/fobidlim
 
@@ -15,7 +15,11 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 
 #### 경력
 
-- **밀랑(주)**, 서울 강남구 (2017년 9월 - 현재)
+- **레벨13**, 서울 강남구 (2019년 11월 - 현재)
+
+> 룩핀 안드로이드 개발을 담당했습니다.
+
+- **밀랑(주)**, 서울 강남구 (2017년 9월 - 2019년 10월)
 
 > 테이블링(Tabling) 매장용과 사용자용 안드로이드 개발을 담당했습니다.
 
@@ -27,35 +31,32 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 
 > 쇼팅(Shoting) 안드로이드와 서버 개발을 담당했습니다.
 
-#### 학력
-
-- **방송통신대학교**, 컴퓨터과학과 (2016년 7월 편입 - 2019년 7월 졸업 예정)
-- **중부대학교**, 영어과 (2007년 - 2008년, 중퇴)
-
-#### 교육
-
-- **ITBANK** (2013년 9월 - 2014년 4월)
-
 ---
 
 ### 프로젝트
 
+**룩핀**
+- 레벨13
+- 기간: 2019년 11월 - 현재
+- 사용기술: Kotlin, MVP, RxJava2.x, Dagger, FCM, Firebase Remote Config, Retrofit, Github Actions, Jenkins
+- 소개
+
 **테이블링(매장용)**
 - 밀랑(주)
-- 기간: 2017년 9월 - 현재
-- 사용기술: Java, MVP, RxJava1.x, FCM, Firebase Database, Retrofit, Realm
+- 기간: 2017년 9월 - 2019년 10월
+- 사용기술: Kotlin, MVVM, RxJava2.x, FCM, Firebase Realmtime Database, Retrofit, Realm
 - 소개
 
 **테이블링**
 - 밀랑(주)
-- 기간: 2018년 1월 - 현재
-- 사용기술: Kotlin, MVVM, RxJava2.x, Dagger, Retrofit, Realm, Data Binding
+- 기간: 2018년 1월 - 2019년 10월
+- 사용기술: Kotlin, MVVM, RxJava2.x, Dagger, Retrofit, Realm, Data Binding, Jenkins
 - 소개
 
 **Read Only**
 - 개인 프로젝트
 - 기간: 2017년 2월 - 2017년 5월
-- 사용기술: Java, MVVM, Realm, RxJava1.x, Firebase Database
+- 사용기술: Kotlin, MVVM, Realm, RxJava2.x, Firebase Realmtime Database
 - 소개
 
 **LinkableText**
@@ -79,7 +80,7 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 **그랩**
 - (주)파트너
 - 기간: 2015년 1월 - 2017년 9월
-- 사용기술: Java, MVVM, RxJava1.x, Retrofit, Realm, MQTT, FCM, Jenkins, ExoPlayer
+- 사용기술: Kotlin, MVVM, RxJava2.x, Retrofit, Realm, MQTT, FCM, Jenkins, ExoPlayer
 - 소개
 
 **쇼카운트**
