@@ -40,7 +40,7 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 - 기간:
 - 사용기술: RxJava2.x, Coroutine, MVVM, LiveData, Room, Firebase ML KIt
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=com.fobidlim.flextags)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fobidlim.flextags)
 ```
 Coroutine 사용, MVVM 패턴
 DataBinding 사용
@@ -55,7 +55,7 @@ Firebase ML Kit(이미지 라벨링) 사용
 - 기간: 
 - 사용기술: RxJava2.x, MVVM, Room, Firebase Auth, Firebase Realtime Database
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=com.fobid.zzal)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fobid.zzal)
 ```
 RxJava(2.x) 사용, MVVM 패턴
 Google Custom Search API 사용, 짤(meme) 검색
@@ -71,7 +71,7 @@ Room 사용
 - 기간: 2019년 11월 - 현재
 - 사용기술: Kotlin, MVP, RxJava2.x, Dagger, FCM, Firebase Remote Config, Retrofit, Github Actions, Jenkins
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=com.mozzet.lookpin)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.mozzet.lookpin)
 ```
 RxJava(2.x) 사용, MVP 패턴
 
@@ -132,7 +132,7 @@ DataBinding 사용
 - 기간: 2017년 9월 - 2019년 10월
 - 사용기술: Kotlin, MVVM, RxJava2.x, FCM, Firebase Realmtime Database, Retrofit, Realm
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=com.mealant.simpletable.admin.app)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.mealant.simpletable.admin.app)
 ```
 매장 전용 태블릿 애플리케이션
 RxJava(1.x) 사용, MVP 패턴
@@ -147,7 +147,7 @@ FCM 사용, 매장의 전화 통화 상태 푸시(Push) 수신, 발신자의 매
 - 기간: 2018년 1월 - 2019년 10월
 - 사용기술: Kotlin, MVVM, RxJava2.x, Dagger, DataBinding, Retrofit, Realm, Data Binding, Jenkins
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=com.mealant.tabling)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.mealant.tabling)
 ```
 RxJava(2.x) 사용, MVVM 패턴
 DataBinding 사용
@@ -160,7 +160,7 @@ Jenkins 사용, CI 구축, 테스트 및 배포 자동화
 - 기간: 2017년 2월 - 2017년 5월
 - 사용기술: Kotlin, MVVM, Realm, RxJava2.x, Firebase Realmtime Database
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=com.fobid.readonly)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fobid.readonly)
 ```
 RxJava(2.x) 사용, MVVM 패턴
 HTML 태그 파싱
@@ -174,7 +174,7 @@ Realm 사용
 - 기간: 2016년 11월 - 2017년 1월
 - 사용기술: Java
 - 소개:
-[GitHub](https://github.com/fobid/linkable-text-android), [Google Play](https://play.google.com/store/apps/details?id=com.github.fobid.linkabletext.sample)
+[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/fobid/linkable-text-android) [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.github.fobid.linkabletext.sample)
 ```
 사용자 멘션(@)과 해시태그(#)를 링크 할 수 있는 커스텀뷰 라이브러리
 멘션과 해시태그는 사용자 커스텀 정규 표현식 지원
@@ -186,7 +186,7 @@ TextView의 기본 링크와 함께 멘션, 해시태그의 클릭 액션을 콜
 - 기간: 2016년 3월 - 2017년 1월
 - 사용기술: Java
 - 소개:
-[GitHub](https://github.com/fobid/webviewer-android), [Google Play](https://play.google.com/store/apps/details?id=com.tfc.webviewer.sample)
+[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/fobid/webviewer-android) [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.tfc.webviewer.sample)
 ```
 인앱 웹뷰 안드로이드 라이브러리
 ```
@@ -210,7 +210,7 @@ FCM, MQTT 푸시 사용
 - 기간: 2015년 1월 - 2017년 9월
 - 사용기술: Kotlin, MVVM, RxJava2.x, Retrofit, Realm, MQTT, FCM, Jenkins, ExoPlayer
 - 소개:
-[Google Play](https://play.google.com/store/apps/details?id=so.partner.app.grap)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=so.partner.app.grap)
 ```
 RxJava(1.x) 사용, MVP 패턴
 Realm 사용
@@ -221,6 +221,7 @@ FCM, MQTT 푸시 사용
 디바이스 파일함 개발
 GA 사용, 기획팀과 협업
 Jenkins 사용, CI 구축, 테스트 및 배포 자동화
+MQTT 푸시 모듈 로그 시스템 구축
 ```
 
 **쇼카운트**
