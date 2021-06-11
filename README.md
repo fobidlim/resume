@@ -73,7 +73,9 @@ Room 사용
 - 소개:
 [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.mozzet.lookpin)
 ```
-RxJava(2.x) 사용, MVP 패턴
+RxJava(2.x), LiveData 사용, MVP, MVVM 패턴
+DataBinding 사용
+Room 사용
 
 코틀린 100% 마이그레이션
 
