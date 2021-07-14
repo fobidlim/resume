@@ -59,7 +59,7 @@ Firebase ML Kit(이미지 라벨링) 사용
 - 기간: 2020년 12월 - 2021년 1월
 - 사용기술: Kotlin, MVVM, Dagger, RxJava2.x
 - 소개:
-- [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.artonhanger.app)
+[<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.artonhanger.app)
 ```
 RxJava(2.x) 사용, MVVM 패턴
 구매자, 유료서비스 구독 판매자, 유료서비스 미구독 판매자 등, 사용자의 권한 상태 관리를 ReactiveX로 구현
