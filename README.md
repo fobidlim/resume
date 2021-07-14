@@ -15,6 +15,10 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 
 #### 경력
 
+- **아트온행거**, 프리랜서 (2020년 12월 - 2021년 1월)
+
+> 아트온행거 안드로이드 개발을 담당했습니다.
+
 - **레벨13**, 서울 강남구 (2019년 11월 - 현재)
 
 > 클라이언트 개발 팀장과 룩핀(LookPin) 안드로이드 개발을 담당했습니다.
@@ -37,7 +41,7 @@ ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Cl
 
 **Flex Tags**
 - 개인 프로젝트
-- 기간:
+- 기간: 2021년 5월 - 현재
 - 사용기술: RxJava2.x, Coroutine, MVVM, LiveData, Room, Firebase ML KIt
 - 소개:
 [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fobidlim.flextags)
@@ -50,10 +54,21 @@ Firebase ML Kit(이미지 라벨링) 사용
 카카오 번역 API 사용, 사용자 언어 설정 별로 번역 된 해시태그 제공
 ```
 
+**아트온행거**
+- 프리랜서
+- 기간: 2020년 12월 - 2021년 1월
+- 사용기술: Kotlin, MVVM, Dagger, RxJava2.x
+- 소개:
+- [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.artonhanger.app)
+```
+RxJava(2.x) 사용, MVVM 패턴
+구매자, 유료서비스 구독 판매자, 유료서비스 미구독 판매자 등, 사용자의 권한 상태 관리를 ReactiveX로 구현
+```
+
 **짤해**
 - 개인 프로젝트
-- 기간: 
-- 사용기술: RxJava2.x, MVVM, Room, Firebase Auth, Firebase Realtime Database
+- 기간: 2020년 1월 - 현재
+- 사용기술: Kotlin, MVVM, Dagger, RxJava2.x, Room, Firebase Auth, Firebase Realtime Database
 - 소개:
 [<img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.fobid.zzal)
 ```
