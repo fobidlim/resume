@@ -6,7 +6,7 @@ https://www.fobidlim.com
 
 https://github.com/fobidlim
 
-<iam@fobidlim.com>
+<fobidlim@gmail.com>
 
 Android application 을 개발하고 있습니다.
 ReactiveX(Rx) 기술을 좋아하고, Open Source 에 관심이 많습니다. Clean code를 항상 고민합니다.
